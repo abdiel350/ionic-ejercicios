@@ -1,1 +1,1 @@
-# Todos los esjercicios de:  ionic-ejercicios
+# Todos los ejercicios de:  ionic-ejercicios
